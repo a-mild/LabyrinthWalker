@@ -1,5 +1,7 @@
 # Labyrinth Walker
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/a-mild/LabyrinthWalker/HEAD)
+
 ## Problem description
 
 The solver (based on Raymond Hettingers Puzzle Solver from Pycon 2019 Talk) shall find the shortest way from point A to point B through a labyrinth. 
